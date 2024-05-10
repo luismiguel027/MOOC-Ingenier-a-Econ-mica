@@ -1,0 +1,35 @@
+/* estilos.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f4f4f4;
+}
+
+.sesion {
+    margin-bottom: 40px;
+    background: #9e9090;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.sesion h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.grid {
+    margin-left: 2%;
+}
+
+.grid img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+
+
+
+
+
